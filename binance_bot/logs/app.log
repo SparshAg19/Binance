@@ -1,0 +1,10 @@
+
+2026-06-08 18:04:13,821 | INFO | binance_bot | futures_ping succeeded.
+2026-06-08 18:04:13,951 | INFO | binance_bot | Timestamp synchronized with offset 11573ms.
+2026-06-08 18:04:14,090 | INFO | binance_bot | get_account_balances succeeded.
+2026-06-08 18:04:14,220 | INFO | binance_bot | get_ticker_price:BTCUSDT succeeded.
+2026-06-08 18:10:55,463 | INFO | binance_bot | futures_ping succeeded.
+2026-06-08 18:10:55,596 | INFO | binance_bot | Timestamp synchronized with offset 11584ms.
+2026-06-08 18:10:55,735 | INFO | binance_bot | get_account_balances succeeded.
+2026-06-08 18:10:55,872 | INFO | binance_bot | get_ticker_price:BTCUSDT succeeded.
+2026-06-08 18:11:54,216 | WARNING | binance_bot | get_open_orders failed with Binance API error -1121: Invalid futures symbol. Verify it exists on USDT-M Futures.
